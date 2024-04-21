@@ -16,7 +16,7 @@ axfs = { git = "https://github.com/Arceos-crates/axfs.git" }
 axerrno = { git = "https://github.com/Arceos-crates/axerrno.git" }
 axlog = { git = "https://github.com/Arceos-crates/axlog.git" }
 axprocess = { git = "https://github.com/Arceos-crates/axprocess.git" }
-syscall_utils = { path = "../syscall_utils" }
+syscall_utils = { git = "https://github.com/Arceos-crates/syscall_utils.git" }
 axio = { git = "https://github.com/Arceos-crates/axio" }
 axhal = { git = "https://github.com/Arceos-crates/axhal.git" }
 bitflags = "2.0"
